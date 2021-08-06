@@ -11,8 +11,7 @@ import (
 	"k8s.io/client-go/util/homedir"
 )
 
-func main() {
-	// Kube config path
+func get_kube_config_path() string {
 	var kube_config_path string
 	home_dir := homedir.HomeDir()
 
@@ -22,6 +21,13 @@ func main() {
 		fmt.Println("Enter kubernetes config directory: ")
 		fmt.Scanf("%s", kube_config_path)
 	}
+
+	return kube_config_path
+}
+
+func main() {
+	// Get kube config path
+	kube_config_path := get_kube_config_path()
 
 	fmt.Println(kube_config_path)
 
