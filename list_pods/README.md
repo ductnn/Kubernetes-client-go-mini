@@ -176,12 +176,10 @@ Pod name=/kube-scheduler-minikube
 Pod name=/storage-provisioner
 ```
 
-  He he :v Vậy là xong :3. Trông cũng hịn hịn nhỷ 🤪🤪🤪. 
+  He he :v vậy là xong :3. Trông cũng hịn hịn nhỷ 🤪🤪🤪. Hy vọng, bài viết này
+của mình sẽ giúp anh em hiểu được phần nào ứng dụng của thư viện [client-go](https://github.com/kubernetes/client-go) 🎉🎉🎉. Anh em cho mình xin ý kiến và có ý tưởng gì hay hay thì còm men để mình có làm
+thử thêm.
 
-  Hy vọng, bài viết này của mình sẽ giúp anh em hiểu được phần nào ứng dụng
-  của thư viện [client-go](https://github.com/kubernetes/client-go) 🎉🎉🎉.
-  
-  Anh em cho mình xin ý kiến và có ý tưởng gì hay hay thì còm men để mình có làm
-  thử thêm. Cảm ơn anh em đã đọc 😄😄😄.
+  Cảm ơn anh em đã đọc 😄😄😄.
 
 [me](https://ductn.info/about)
