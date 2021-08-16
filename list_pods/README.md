@@ -8,6 +8,8 @@ title: List pods in Kubernetes cluster
     <img src="./img/kugo.jpeg" width="500">
 </p>
 
+  *Link bài viết gốc trên blog https://ductn.info/controller-kubernetes-with-golang/*
+
 ### **Giới thiệu**
 
   Kubernetes cung cấp cho chúng ta một thư viện khá xịn xò tên là
