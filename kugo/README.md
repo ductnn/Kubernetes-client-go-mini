@@ -20,7 +20,7 @@ trong phần này mình sẽ làm 1 tool giúp chúng có thể **update** phiê
   Trông ứng dụng sẽ như thế này :3 
 
 <p align="center">
-    <img src="./img/kugo.gif" width="500">
+    <img src="./img/kugo.gif" width="800">
 </p>
 
   *Link source code đây nha: https://github.com/ductnn/kugo*
